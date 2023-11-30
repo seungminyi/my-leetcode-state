@@ -22,7 +22,7 @@
 19. [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 20. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-## Medium Problems (9)
+## Medium Problems (11)
 1. [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 2. [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 3. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -32,5 +32,7 @@
 7. [77. Combinations](https://leetcode.com/problems/combinations/)
 8. [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 9. [78. Subsets](https://leetcode.com/problems/subsets/)
+10. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+11. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-### Total Problems Solved: 29
+### Total Problems Solved: 31
