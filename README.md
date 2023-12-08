@@ -1,6 +1,6 @@
 # LeetCode Problems Solved
 
-## Easy Problems (20)
+## Easy Problems (22)
 1. [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 2. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 3. [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
@@ -21,8 +21,10 @@
 18. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 19. [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 20. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+21. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+22. [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 
-## Medium Problems (14)
+## Medium Problems (16)
 1. [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 2. [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 3. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -37,5 +39,7 @@
 12. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)(*)
 13. [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 14. [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)(*)
+15. [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+16. [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)(*)
 
-### Total Problems Solved: 34
+### Total Problems Solved: 38
